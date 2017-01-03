@@ -169,7 +169,9 @@ global BOT_ID         = "",
        FIRST_MESSAGE  = "",
        SECOND_MESSAGE = "",
        CHAT_MESSAGE   = "",
-       REFRESH_RATE   =         
+       REFRESH_RATE   =   ,       
+       GROUP_NAME     = "",
+       GROUP_ID       =
 
 
 #########################

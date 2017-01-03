@@ -11,6 +11,8 @@ I felt like I needed to implement this bot to help the moderators in their daily
 You need to install python 2.7 and install the mongoDB server which can be found here : 
 `https://www.mongodb.com/download-center`
 
+Follow these steps to get the bot to work :
+
 - `pip install virtualenv`
 
 - `virtualenv facebookenv`
